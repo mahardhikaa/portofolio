@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Whiteboard Website",
+      "description": "Make some website for whiteboard in github. So when i teach someone in online, i will used my whiteboard from github pages",
+      "year": "2021",
+      "role": "Frontend Dev",
+      "link": "https://mahardhikaa.github.io/whiteboard/",
+      "image": "Whiteboard.png"
+    },
+    {
+        "id": 2,
+        "title": "Lens Formula Website",
+        "description": "Make some website to calculate lens formula and maginifation for science project.",
+        "year": "2020",
+        "role": "Frontend Dev",
+        "link": "https://mahardhikaa.github.io/Penjalaran_Sinar/",
+        "image": "Lens.png"
+    },
+    {
+        "id": 3,
+        "title": "Resistor Calculator",
+        "description": "Make some website to calculate resistor by color band.",
+        "year": "2020",
+        "role": "Frontend Dev",
+        "link": "https://mahardhikaa.github.io/Resistor_Calculator/",
+        "image": "Resistor.png"
+    },
+    {
+        "id": 4,
+        "title": "Resistor Calculator",
+        "description": "Make some website to calculate resistor by color band.",
+        "year": "2020",
+        "role": "Frontend Dev",
+        "link": "https://mahardhikaa.github.io/Resistor_Calculator/",
+        "image": "Resistor.png"
+    }
+  ]

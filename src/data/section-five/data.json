@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "experience": "Application Support Production",
+        "date": "Oct 2022 - Present",
+        "company": "Permata Bank",
+        "description": "My role included maintaining cloud infrastructure (e.g., AWS, GCP), implementing monitoring and logging solutions, and ensuring high availability and security of production environments. I collaborated closely with developers and QA teams to build efficient, automated systems that support rapid and reliable delivery of software products."
+    },
+    {
+        "id": 2,
+        "experience": "Instrumentation Student",
+        "date": "Jul 2018 - Jul 2022",
+        "company": "Universitas Brawijaya",
+        "description": "As an Instrumentation Engineering student, I developed a strong foundation in sensor technology, automation systems, and control engineering. I gained hands-on experience with various measurement instruments, signal processing, and microcontroller programming (such as Arduino and PLCs). Throughout my academic journey, I worked on multiple projects involving data acquisition, system calibration, and industrial automation."
+    },
+    {
+        "id": 3,
+        "experience": "Researcher",
+        "date": "Mar 2021 - Jul 2021",
+        "company": "LIPI",
+        "description": "As a researcher at LIPI, I was involved in conducting scientific investigations, data analysis, and the development of experimental methodologies in the field of [insert your field, e.g., instrumentation, environmental science, etc.]."
+    }
+]
