@@ -64,7 +64,7 @@ const Navigation = () => {
   return (
     <Navbar 
         variant="filled"
-        className="mx-auto max-w-[1440px] px-10 py-3 shadow-none border-0 rounded-none !bg-[#0A0A0A] !bg-opacity-100 mb-0"
+        className="max-w-full px-10 py-3 shadow-none border-0 rounded-none !bg-[#0A0A0A] !bg-opacity-100 mb-0"
     >
       <div className="flex items-center justify-between text-blue-gray-900">
         <Typography
